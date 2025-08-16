@@ -289,3 +289,37 @@ plt.plot(monthly_admission['Month Name'], monthly_admission['Total_patient'],
 print(f"Total patients admitted in the year {selected_year}")
 
 ## END OF THE CASE STUDY. VOILA 👏##
+
+RESULTS
+
+<img width="896" height="568" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/17165c12-06ba-4cc5-a412-245edb0decfd" />
+<img width="1195" height="531" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/e0ab34e4-9f9e-4ba7-9f51-ebb5969c4bff" />
+<img width="1275" height="543" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/597def79-3f2d-4b81-9f30-05bf91181519" />
+<img width="1366" height="640" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/bd16ff99-444a-4ff3-a9be-0ff727b09427" />
+<img width="1366" height="411" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/b3eb9515-62c3-4946-be7b-6de20d486023" />
+<img width="1366" height="509" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c2abbeae-1eb0-4e44-b6f0-1efbe67154bc" />
+<img width="1366" height="452" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7a2c4bb7-9ee8-4cba-a0a7-134f4ec76186" />
+<img width="1366" height="520" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ea4df07e-8860-4862-bbcc-d07f0196e8ae" />
+<img width="1366" height="548" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/962d5ffc-06c5-40b2-887c-852614015cc0" />
+<img width="1366" height="542" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/c462019f-f386-409a-b433-c3663b091fe8" />
+<img width="1366" height="419" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/0a70c414-7660-48df-8af9-e4717bd0a6fe" />
+<img width="1366" height="427" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/dab0cd2c-990c-4989-89d8-070ed52d2ade" />
+<img width="1366" height="540" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/9836676f-804f-489d-afdd-80f56cf20532" />
+<img width="1366" height="556" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/307eb80b-519e-4380-85eb-2210ab2a07cf" />
+<img width="1366" height="419" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/851482e2-3a38-44be-a13a-872211e2cb69" />
+<img width="1366" height="423" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/b03628f5-fcf7-40e4-a3ce-4aa34294557a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
